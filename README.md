@@ -53,6 +53,6 @@ python book/main.py
 
 ---
 
-## Exemplo visual
+## Exemplo visual - Capa de livro
 
 <img src="book/images/book-1.jpg" width="200">
